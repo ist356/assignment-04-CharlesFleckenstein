@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+In this assginment i learned how to filter data frames by column, and had some more practice with streamlit. I struggled for a bit because I had to check the solution to see what i was supposed to code the finalproduct to be. 
